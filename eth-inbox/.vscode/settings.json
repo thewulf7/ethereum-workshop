@@ -1,0 +1,4 @@
+{
+    "mocha.enabled": true,
+    "git.ignoreLimitWarning": true
+}
